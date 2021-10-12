@@ -1,0 +1,32 @@
+{
+	"folders": [
+		{
+			"name": "Python",
+			"path": "..\\..\\..\\Python"
+		},
+		{
+			"name": "Python Fundamentals",
+			"path": "..\\..\\..\\Python Fundamentals"
+		},
+		{
+			"name": "Ajax",
+			"path": "..\\..\\..\\Ajax"
+		},
+		{
+			"name": "Flask",
+			"path": "..\\.."
+		},
+		{
+			"name": "MYSQL",
+			"path": "..\\..\\..\\MYSQL"
+		},
+		{
+			"name": "Flask+MySQL",
+			"path": "..\\..\\..\\Flask+MySQL"
+		},
+		{
+			"path": "..\\..\\..\\Flask+MySQL\\templates"
+		}
+	],
+	"settings": {}
+}
